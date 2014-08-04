@@ -21,7 +21,11 @@ namespace SmartCopy
 
             if (args.Contains("-h"))
             {
-                Console.WriteLine("Help Text");
+                Console.WriteLine("SmartCopy.exe Help");
+                Console.WriteLine("-source where to copy from");
+                Console.WriteLine("-destination where to copy file to");
+                Console.WriteLine("-verbose [optional default false] will log all files and directories copied");
+                Console.WriteLine("-overwrite [optional default false] will determine whether desintation files are replaced");
                 return;
             }
 
