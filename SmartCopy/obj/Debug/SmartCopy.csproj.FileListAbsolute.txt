@@ -1,0 +1,9 @@
+c:\users\rogerto\documents\visual studio 2013\Projects\SmartCopy\SmartCopy\bin\Debug\SmartCopy.exe.config
+c:\users\rogerto\documents\visual studio 2013\Projects\SmartCopy\SmartCopy\bin\Debug\SmartCopy.exe
+c:\users\rogerto\documents\visual studio 2013\Projects\SmartCopy\SmartCopy\bin\Debug\SmartCopy.pdb
+c:\users\rogerto\documents\visual studio 2013\Projects\SmartCopy\SmartCopy\obj\Debug\SmartCopy.exe
+c:\users\rogerto\documents\visual studio 2013\Projects\SmartCopy\SmartCopy\obj\Debug\SmartCopy.pdb
+c:\users\rogerto\documents\visual studio 2013\Projects\SmartCopy\SmartCopy\obj\Debug\SmartCopy.csprojResolveAssemblyReference.cache
+C:\Users\rogerto\Documents\Github\SmartCopy\SmartCopy\bin\Debug\SmartCopy.exe.config
+C:\Users\rogerto\Documents\Github\SmartCopy\SmartCopy\obj\Debug\SmartCopy.exe
+C:\Users\rogerto\Documents\Github\SmartCopy\SmartCopy\obj\Debug\SmartCopy.pdb
