@@ -80,7 +80,18 @@ namespace SmartCopy
         {
             bool copySubDirs = true;
             DirectoryInfo from = new DirectoryInfo(source);
-            DirectoryInfo[] dirs = from.GetDirectories();
+            DirectoryInfo[] dirs = null;
+            try
+            {
+                dirs = from.GetDirectories();
+            }
+            catch (UnauthorizedAccessException exception)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Source:" + source + " Exception: " + exception.Message);
+                Console.ResetColor();
+                return;
+            }
 
             Log(String.Format("Copying directory {0}", source));
 
