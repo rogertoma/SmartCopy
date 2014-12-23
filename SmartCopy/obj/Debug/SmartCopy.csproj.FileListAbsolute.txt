@@ -10,3 +10,9 @@ C:\Users\rogerto\Documents\Github\SmartCopy\SmartCopy\obj\Debug\SmartCopy.pdb
 C:\Users\rogerto\Documents\Github\SmartCopy\SmartCopy\bin\Debug\SmartCopy.exe
 C:\Users\rogerto\Documents\Github\SmartCopy\SmartCopy\bin\Debug\SmartCopy.pdb
 C:\Users\rogerto\Documents\Github\SmartCopy\SmartCopy\obj\Debug\SmartCopy.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\SmartCopy\SmartCopy\bin\Debug\SmartCopy.exe.config
+C:\Users\Administrator\Documents\GitHub\SmartCopy\SmartCopy\obj\Debug\SmartCopy.exe
+C:\Users\Administrator\Documents\GitHub\SmartCopy\SmartCopy\obj\Debug\SmartCopy.pdb
+C:\Users\Administrator\Documents\GitHub\SmartCopy\SmartCopy\bin\Debug\SmartCopy.exe
+C:\Users\Administrator\Documents\GitHub\SmartCopy\SmartCopy\bin\Debug\SmartCopy.pdb
+C:\Users\Administrator\Documents\GitHub\SmartCopy\SmartCopy\obj\Debug\SmartCopy.csprojResolveAssemblyReference.cache

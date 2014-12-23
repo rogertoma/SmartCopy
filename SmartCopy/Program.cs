@@ -127,6 +127,14 @@ namespace SmartCopy
                         Log(string.Format("File copied {0}", file.Name));
                         file.CopyTo(temppath, true);
                     }
+                    else
+                    {
+                        FileInfo desFile = new FileInfo(temppath);
+                        if (desFile.LastWriteTime != file.LastWriteTime)
+                        {
+                            file.CopyTo(temppath, true);    
+                        }
+                    }
                 }
             }
 
